@@ -1,0 +1,140 @@
+created_by: akoetsier
+version: 2
+domain: laws
+seed_examples:
+- question: What is the definition of an AI system according to the AI Act?
+  answer: |
+    An AI system is software that is developed with one or more of the techniques and approaches listed in Annex I and
+    can, for a given set of human-defined objectives, generate outputs such as content, predictions, recommendations,
+    or decisions, that influence physical or virtual environments.
+- question: What are the main components of an AI system?
+  answer: |
+    An AI system consists of a training phase, an inference engine, and a knowledge base. The training phase involves
+    learning from data, while the inference engine generates outputs by reasoning on the knowledge base. The knowledge
+    base represents entities and logical relationships relevant for the application problem through formalisms based
+    on rules, ontologies, or knowledge graphs.
+- question: What are the types of AI systems?
+  answer: |
+    AI systems can be classified into two categories: narrow or weak AI systems, which are designed to perform a
+    specific task, and general or strong AI systems, which can perform any intellectual task that a human being can do.
+- question: What is the role of data in AI systems?
+  answer: |
+    Data plays a crucial role in AI systems, as they learn from vast amounts of data to understand the structure and
+    context of language without explicit instructions about what each piece of text is about. Models can therefore
+    learn and generalize their understanding of the world and are capable to handle new and diverse situations.
+- question: What are the risks associated with AI systems?
+  answer: |
+    There are several risks associated with AI systems, including unintended consequences, bias, transparency,
+    accountability, and privacy issues. These risks can have significant societal and economic impacts, and it is
+    essential to address them through appropriate regulations and safeguards.
+- question: What is the role of the European Parliament and the European Commission in the AI Act?
+  answer: |
+    The European Parliament and the European Commission are working together on the development of the AI Act, which
+    aims to lay down harmonized rules on artificial intelligence in the European Union.
+- question: What is the purpose of the AI Act?
+  answer: |
+    The purpose of the AI Act is to ensure that AI systems are safe, transparent, and accountable, and that they
+    respect fundamental rights and values.
+- question: What are the key provisions of the AI Act?
+  answer: |
+    The AI Act includes several key provisions, such as the obligation for providers to draw up and make publicly
+    available a sufficient summary of the content used for training general-purpose AI models, the establishment
+    of an EU-wide list of high-risk AI systems, and the possibility for the European Commission to adopt delegated
+    acts to further specify certain aspects of the regulation.
+- question: What are the consequences of non-compliance with the AI Act?
+  answer: |
+    Non-compliance with the AI Act can result in administrative fines, prohibition of the AI system, and other
+    penalties.
+- question: What is the role of copyright law in the training of general-purpose AI models?
+  answer: |
+    Copyright law plays a role in the training of general-purpose AI models, as it requires providers to draw up and
+    make publicly available a sufficient summary of the content used for training the model. This summary should
+    include a list of the main data collections or sets that went into training the model and a narrative explanation
+    about other data sources used.
+- question: What is the purpose of the AI Office in the AI Act?
+  answer: |
+    The AI Office is responsible for providing technical assistance, advice, and guidance to stakeholders on all
+    aspects of the AI Act.
+- question: What are the categories of AI systems according to the AI Act?
+  answer: |
+    The AI Act recognizes two categories of AI systems: narrow or weak AI systems, which are designed to perform a
+    specific task, and general or strong AI systems, which can perform any intellectual task that a human being can do.
+- question: What is the role of the European Commission in the development of the AI Act?
+  answer: |
+    The European Commission is responsible for proposing the AI Act to the European Parliament and the European
+    Council, and for implementing the regulation.
+- question: What are the transparency requirements for AI systems according to the AI Act?
+  answer: |
+    AI systems must be transparent and explainable, and providers must provide clear and comprehensive information
+    about the AI system, including its purpose, the data used for training and testing, and the methods and
+    techniques used for developing and deploying the system.
+- question: What are the accountability requirements for AI systems according to the AI Act?
+  answer: |
+    AI systems must be accountable for their actions, and providers must be responsible for ensuring that the AI system
+    is used in compliance with the regulation. This includes implementing appropriate governance structures, such
+    as risk management mechanisms, monitoring systems, and complaint handling procedures.
+- question: What are the privacy issues associated with AI systems?
+  answer: |
+    AI systems can raise privacy concerns, as they often rely on large amounts of personal data. Ensuring the
+    protection of personal data and respecting data subject rights is an essential aspect of the AI Act.
+- question: What are the biases in AI systems according to the AI Act?
+  answer: |
+    AI systems can perpetuate and amplify existing biases, as they learn from data that may contain inherent biases.
+    The AI Act aims to address this issue by requiring providers to take appropriate measures to avoid, minimize, or
+    eliminate biases in AI systems.
+- question: What are the unintended consequences of AI systems according to the AI Act?
+  answer: |
+    AI systems can have unintended consequences, such as harm to individuals or society, or negative impacts on the
+    economy and the environment. The AI Act aims to address this issue by requiring providers to take appropriate
+    measures to avoid, minimize, or eliminate unintended consequences of AI systems.
+- question: What are the transparency requirements for AI systems according to the AI Act?
+  answer: |
+    AI systems must be transparent and explainable, and providers must provide clear and comprehensive information
+    about the AI system, including its purpose, the data used for training and testing, and the methods and techniques
+    used for developing and deploying the system.
+- question: Which entities does the AI Act apply to?
+  answer: |
+    The AI Act applies to both public and private actors, including developers, importers, and buyers of AI systems,
+    located both inside and outside the EU. However, it does not apply to AI systems used solely for military, defense,
+    or national security purposes, or to research, development, and prototype activities preceding the release on the
+    market.
+- question: What are the regulations for general-purpose AI models?
+  answer: |
+    Providers of general-purpose AI models are required to disclose certain information to downstream system providers
+    and implement policies to ensure compliance with copyright laws. Some models may pose systemic risks due to their
+    capability or widespread usage, and the AI Office may update the threshold for determining these risks.
+- question: How does the AI Act regulate biometric identification?
+  answer: |
+    Real-time remote biometric identification by law enforcement authorities is subject to prior authorization by a
+    judicial or independent administrative authority, except in urgent situations. Post remote biometric identification
+    requires prior authorization by a judicial authority or independent administrative authority. Biometric
+    identification systems must meet certain accuracy standards and cannot discriminate based on race, sex, religion,
+    etc.
+- question: How do the rules protect fundamental rights?
+  answer: |
+    The AI Act ensures accountability and transparency requirements for high-risk AI systems and improves enforcement
+    capacities to ensure legal compliance. Fundamental rights impact assessments are mandatory for certain organizations
+    before deploying high-risk AI systems.
+- question: When will the AI Act be fully implemented?
+  answer: |
+    The AI Act will be fully applicable 24 months after its entry into force, with phased deadlines for member states to
+    phase out prohibited systems, fulfill governance obligations, and comply with all rules related to high-risk
+    systems.
+- question: What is the role of the European Artificial Intelligence Board?
+  answer: |
+    The European Artificial Intelligence Board comprises high-level representatives of competent national supervisory
+    authorities, the European Data Protection Supervisor, and the Commission. Its role is to facilitate the smooth,
+    effective, and harmonized implementation of the new AI Regulation through issuing recommendations and opinions and
+    supporting standardization activities.
+- question: What are the responsibilities of the European AI Office?
+  answer: |
+     The European AI Office is responsible for enforcing and supervising the new rules for general-purpose AI models,
+     ensuring coordination regarding AI policy and collaboration between Union institutions, serving as an international
+     reference point for independent experts and expert organizations, and promoting cooperation with similar
+     institutions globally.
+task_description: 'Artificial Intelligence Questions and Answers'
+document:
+  repo: https://github.com/asgharlabs/ai_act
+  commit: aff70ecee013899250f7e28bcbff3fdd6c788a6e
+  patterns:
+  - ai_act.md
